@@ -21,7 +21,7 @@ const screen = {
                 <i>🍴 ${repo.forks_count}</i>
                 <i>⭐ ${repo.stargazers_count}</i>
                 <i> 👀 ${repo.watchers_count}</i>
-                <i>👩‍💻 ${repo.language}</i>
+                <i>👩‍💻 ${repo.language ?? 'Sem linguagem'}</i>
                 </a></li>`)
 
             this.userProfile.innerHTML += `<div class="repositories section">
