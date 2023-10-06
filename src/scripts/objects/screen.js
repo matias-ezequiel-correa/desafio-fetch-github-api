@@ -20,7 +20,7 @@ const screen = {
                 repositoriesItens += `<li><a href="${repo.html_url}" target="_blank"><h4>${repo.name}</h4>
                 <i>🍴 ${repo.forks_count}</i>
                 <i>⭐ ${repo.stargazers_count}</i>
-                <i> 👀 ${repo.watchers_count}</i>
+                <i>👀 ${repo.watchers_count}</i>
                 <i>👩‍💻 ${repo.language ?? 'Sem linguagem'}</i>
                 </a></li>`)
 
