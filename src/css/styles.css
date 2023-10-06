@@ -35,8 +35,8 @@ main {
 }
 
 .container {
-  width: 60%; /* se for uma tela menor que 980px vai se adaptar a 70% */
-  max-width: 960px; /* quando chegar em 980px para de aumentar */
+  width: 60%; 
+  max-width: 960px; 
   box-shadow: rgba(0, 0, 0, 0.3) 0px 25px 50px -12px;
   background-color: #fff;
   display: flex;
@@ -129,16 +129,6 @@ main {
 }
 
 .container .profile-data .info .follows h3{
-  /* font-size: 20px;
-  font-weight: 700;
-  color: #000;
-  background-color:#00A67D;
-  width: 250px;
-  height: 60px;
-  margin: 20px;
-  padding: 0 20px;
-  border: 2px solid #000;
-  border-radius: 50px; */
   padding: 10px;
 }
 
