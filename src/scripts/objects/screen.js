@@ -25,7 +25,7 @@ const screen = {
                 </a></li>`)
 
             this.userProfile.innerHTML += `<div class="repositories section">
-                                            <h2>Repositories</h2>
+                                            <h2>Repositórios</h2>
                                             <ul>${repositoriesItens}</ul>
                                            </div>`                                 
         }
