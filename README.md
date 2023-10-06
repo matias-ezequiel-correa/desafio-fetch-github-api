@@ -5,13 +5,13 @@
   Matías Ezequiel Correa - Profile Search | Github API
 </h1>
 <p align="center">
-  Neste projeto <a href="https://matias-ezequiel-correa.github.io/projeto-fetch-github-api/" target="_blank">Profile Search | Github API,</a> utiliza-se a API do GitHub, em que o usuário pode fazer buscas de usuários do GitHub, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Neste projeto <a href="https://matias-ezequiel-correa.github.io/desafio-fetch-github-api/" target="_blank">Profile Search | Github API,</a> utiliza-se a API do GitHub, em que o usuário pode fazer buscas de usuários do GitHub, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
-[<p align="center"><img height="400em" src="./src/design/design-desktop.png" alt="Profile Search | Github API - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-fetch-github-api/)<p>
+[<p align="center"><img height="400em" src="./src/design/design-desktop.png" alt="Profile Search | Github API - Versão Desktop">](https://matias-ezequiel-correa.github.io/desafio-fetch-github-api/)<p>
 
-### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-fetch-github-api/" target="_blank">matias-ezequiel-correa.github.io/projeto-fetch-github-api/</a>
+### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/desafio-fetch-github-api/" target="_blank">matias-ezequiel-correa.github.io/desafio-fetch-github-api/</a>
 
 ## Tecnologias utilizadas:
 
